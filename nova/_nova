@@ -54,6 +54,7 @@ _1st_arguments=(
       "flavor-key:Set or unset extra_spec for a flavor."
       "flavor-list:Print a list of available 'flavors' (sizes of servers)."
       "flavor-show:Show details about the given flavor."
+      "floating-ip-associate:Associate floating ip to an instance"
       "floating-ip-bulk-create:Bulk create floating ips by range"
       "floating-ip-bulk-delete:Bulk delete floating ips by range"
       "floating-ip-bulk-list:List all floating ips"
